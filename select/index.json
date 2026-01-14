@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ハグルマ",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2026-01-14T08:42:01.228660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハグルマ",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_ハグルマ_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハグルマ",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_ハグルマ_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハグルマ(アニメ Ver.)",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/03_ハグルマ(アニメ_Ver.)_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハグルマ",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/04_ハグルマ_KANA-BOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハグルマ",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_ハグルマ_KANA-BOON.txt"
+    }
+  ]
+}
